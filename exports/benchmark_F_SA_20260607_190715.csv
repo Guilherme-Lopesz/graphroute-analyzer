@@ -1,0 +1,4 @@
+algorithm,path_short,path_full,cost_km,optimal_guaranteed,mean_ms,std_ms,median_ms,min_ms,max_ms
+BFS,Feira de Santana → Coité do Nóia → Santo Amaro,Feira de Santana (F) → Coité do Nóia (Cj) → Santo Amaro (SA),60,Não,0.010578,0.000715,0.0105,0.0102,0.0166
+DFS,Feira de Santana → Coité do Nóia → Santo Amaro,Feira de Santana (F) → Coité do Nóia (Cj) → Santo Amaro (SA),60,Não,0.006588,0.000245,0.0065,0.0064,0.0084
+Dijkstra,Feira de Santana → Coité do Nóia → Santo Amaro,Feira de Santana (F) → Coité do Nóia (Cj) → Santo Amaro (SA),60,Sim  ✓,0.024075,0.000772,0.0239,0.0236,0.0295

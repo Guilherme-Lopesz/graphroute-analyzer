@@ -1,0 +1,55 @@
+{
+    "timestamp": "2026-06-06T19:01:46.085043",
+    "config": {
+        "start": "S",
+        "end": "SA",
+        "executions": 100
+    },
+    "results": {
+        "BFS": {
+            "path": [
+                "S",
+                "J",
+                "F",
+                "Cj",
+                "SA"
+            ],
+            "cost_km": 100,
+            "mean_ms": 0.010782,
+            "std_ms": 0.001074,
+            "median_ms": 0.0106,
+            "min_ms": 0.0104,
+            "max_ms": 0.0177
+        },
+        "DFS": {
+            "path": [
+                "S",
+                "J",
+                "F",
+                "Cj",
+                "SA"
+            ],
+            "cost_km": 100,
+            "mean_ms": 0.007635,
+            "std_ms": 0.000723,
+            "median_ms": 0.0075,
+            "min_ms": 0.0073,
+            "max_ms": 0.0139
+        },
+        "Dijkstra": {
+            "path": [
+                "S",
+                "J",
+                "F",
+                "Cj",
+                "SA"
+            ],
+            "cost_km": 100,
+            "mean_ms": 0.024088,
+            "std_ms": 0.000874,
+            "median_ms": 0.0239,
+            "min_ms": 0.0237,
+            "max_ms": 0.0304
+        }
+    }
+}

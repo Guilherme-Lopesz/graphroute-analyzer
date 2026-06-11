@@ -1,0 +1,4 @@
+algorithm,path,cost_km,mean_ms,std_ms,median_ms,min_ms,max_ms
+BFS,S → J → F → Cj → SA,100,0.010782,0.001074,0.0106,0.0104,0.0177
+DFS,S → J → F → Cj → SA,100,0.007635,0.000723,0.0075,0.0073,0.0139
+Dijkstra,S → J → F → Cj → SA,100,0.024088,0.000874,0.0239,0.0237,0.0304
